@@ -17,7 +17,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "小可爱": /imgs/abc.jpg
+        "小可爱": "./imgs/iu.jpg"
         
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
